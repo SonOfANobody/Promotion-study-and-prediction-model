@@ -83,13 +83,13 @@ Feature importance charts
 Promotion rate by department
 
 📁 Project Structure
-
 ├── data/
 │   └── promotion_dataset.csv
 ├── src/
 │   └── promotion_model.py
 ├── README.md
 └── requirements.txt
+
 💡 Key Insights
 Training score and previous rating strongly impact promotions
 Length of service has moderate influence
@@ -99,16 +99,12 @@ Employees with awards and high KPI scores are more likely to be promoted
 🙌 Contributions
 
 Feel free to fork this project and add improvements such as:
-
 Hyperparameter tuning
-
 Random Forest / LightGBM
-
 Model interpretability (SHAP values)
+
 📬 Contact
-
 For questions or collaboration:
-
 Muhammad Abdulkareem
 📧 Email: abdulkareemmuhammad683@gmail.com
 💼 LinkedIn: [(add your link)](https://www.linkedin.com/in/muhammad-abdulkareem-775b83317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
